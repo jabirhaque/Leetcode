@@ -6,6 +6,7 @@ TODO:
 
 | Topic Checklist                   | Action              |
 |-----------------------------------|---------------------|
+| Greedy                            | Learn               |
 | Monotonic Stack                   | Revise and practice |
 | Deques                            | Learn               |
 | Priority Queue                    | Learn               |
