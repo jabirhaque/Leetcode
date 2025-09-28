@@ -10,7 +10,7 @@ TODO:
 | Monotonic Stack                   | Revise and practice |
 | Deques                            | Learn               |
 | Priority Queue                    | Learn               |
-| BFS (Graphs)                      | Learn               |
+| BFS (Graphs)                      | Practice            |
 | Heap                              | Learn               |
 | Advanced DP (e.g. game theory DP) | Learn               |
 | Disjoint Set Union                | Learn               |
