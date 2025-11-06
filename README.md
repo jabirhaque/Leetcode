@@ -6,12 +6,9 @@ TODO:
 
 | Topic Checklist                   | Action              |
 |-----------------------------------|---------------------|
-| Greedy                            | Practice            |
-| Priority Queue                    | Learn               |
-| Monotonic Stack                   | Revise and practice |
-| Deques                            | Learn               |
-| Heap                              | Learn               |
 | Advanced DP (e.g. game theory DP) | Learn               |
 | Disjoint Set Union                | Learn               |
+| Monotonic Stack                   | Revise and practice |
+| Deques                            | Learn               |
 | Bit manipulation                  | Learn               |
 | Trees                             | Refresh             |
