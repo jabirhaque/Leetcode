@@ -7,7 +7,7 @@ class MinBea {
         System.out.println(minimumPossibleSum(2,3));
     }
 
-    public static us int minimumPossibleSum(int n, int target) {
+    public static int minimumPossibleSum(int n, int target) {
         long count = 0;
         int lessMax = Math.min(n, target / 2);
         count = (count + (long) lessMax * (lessMax + 1) / 2) % mod;
