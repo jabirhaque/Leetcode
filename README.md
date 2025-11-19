@@ -6,7 +6,6 @@ TODO:
 
 | Topic Checklist                   | Action              |
 |-----------------------------------|---------------------|
-| Advanced DP (e.g. game theory DP) | Learn               |
 | Disjoint Set Union                | Learn               |
 | Monotonic Stack                   | Revise and practice |
 | Deques                            | Learn               |
