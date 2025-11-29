@@ -6,8 +6,8 @@ TODO:
 
 | Topic Checklist                   | Action              |
 |-----------------------------------|---------------------|
-| Disjoint Set Union                | Learn               |
 | Monotonic Stack                   | Revise and practice |
+| Disjoint Set Union                | Learn               |
 | Deques                            | Learn               |
 | Bit manipulation                  | Learn               |
 | Trees                             | Refresh             |
